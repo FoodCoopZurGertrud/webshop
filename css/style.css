@@ -303,6 +303,10 @@ a.product-name:hover, a.product-name:focus {
     background-color: #e4e4e4;
 }
 
+.bg-blue {
+    background-color: #1E2460;
+}
+
 .ratings {
     margin-top: 5px;
 }
